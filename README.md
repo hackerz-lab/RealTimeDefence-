@@ -58,8 +58,8 @@ pkg update && pkg upgrade
 pkg install inotify-tools clamav jq termux-api
 
 # Clone repository
-git clone https://github.com/Hackerz-lab/ARADMS.git
-cd ARADMS
+git clone https://github.com/Hackerz-lab/RealTimeDefence.git
+cd RealTimeDefence
 
 # Initialize system
 chmod +x aradms.sh
