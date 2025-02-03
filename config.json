@@ -1,0 +1,12 @@
+{
+    "AUTO_UPDATE": true,
+    "REALTIME_SCAN": true,
+    "AUTO_REPORT": false,
+    "SCAN_ARCHIVES": true,
+    "MAX_DEPTH": 5,
+    "SENSITIVE_DIRS": [
+        "/sdcard/WhatsApp",
+        "/sdcard/DCIM",
+        "/sdcard/Download"
+    ]
+}
